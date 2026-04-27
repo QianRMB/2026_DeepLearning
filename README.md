@@ -69,7 +69,7 @@ jupyter notebook
 1. 确保 `final_best_model.pkl` 在当前目录
 2. 运行 Notebook 中 **评估分析与可视化** 模块
 3. 可得到：
-   - 训练曲线 `training_curves.png`
+   - 训练曲线和验证集上的accuracy曲线 `training_curves.png`
    - 测试集准确率
    - 混淆矩阵 `confusion_matrix.png`
    - 第一层权重可视化 `first_layer_weights.png`
