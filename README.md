@@ -29,7 +29,7 @@ pip install numpy matplotlib pillow scikit-learn tqdm jupyter
 jupyter notebook
 ```
 2. 打开 `Code for HW1.ipynb`
-3. 依次运行所有 cell，直到 **训练最终模型** 模块，final model的参数已经设置好，无需导入，可直接运行(可跳过超参数搜索部分）
+3. 依次运行所有 cell，直到 **训练最终模型** 模块，final model的参数也已经手动设置好，无需导入，可直接运行
 4. 训练完成自动保存：`final_best_model.pkl`
 
 ---
