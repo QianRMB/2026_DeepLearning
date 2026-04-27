@@ -42,7 +42,7 @@ jupyter notebook
    - 测试集准确率
    - 混淆矩阵 `confusion_matrix.png`
    - 第一层权重可视化 `first_layer_weights.png`
-   - 错例分析图 `error_analysis/error_examples.png`
+   - 错例分析图 `error_analysis/error_examples[].png`
 
 ---
 
